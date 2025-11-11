@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
          - name: cont-1
-           image: shaikmustafa/mygame
+           image: jagadeesh9088/login_page:latest
            ports:
              - containerPort: 80
 
